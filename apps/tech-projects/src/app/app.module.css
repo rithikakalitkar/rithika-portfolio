@@ -1,1 +1,12 @@
 /* Your styles goes here. */
+/* styles.module.scss */
+@import 'swiper/css';
+@import 'swiper/css/pagination';
+
+/* Styles for the entire component */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}

@@ -1,0 +1,34 @@
+{
+  "achievements": [
+    {
+      "id": 11,
+      "title": "Code Symphony Maestro",
+      "description": "Composed intricate micro-frontends that harmonize user journeys, enhancing UX.",
+      "year": 2020
+    },
+    {
+      "id": 12,
+      "title": "Innovation Navigator",
+      "description": "Pioneered dynamic component library, boosting team efficiency by 30%.",
+      "year": 2018
+    },
+    {
+      "id": 13,
+      "title": "Bug Whisperer",
+      "description": "Unveiled solutions that slashed critical bugs by 50%, ensuring smooth processes.",
+      "year": 2019
+    },
+    {
+      "id": 14,
+      "title": "UX Enchantress",
+      "description": "Elevated dashboards to artworks, delivering insights through captivating visualizations.",
+      "year": 2021
+    },
+    {
+      "id": 15,
+      "title": "Agile Trailblazer",
+      "description": "Led agile teams to victory, architecting end-to-end workflows for optimal outcomes.",
+      "year": 2017
+    }
+  ]
+}

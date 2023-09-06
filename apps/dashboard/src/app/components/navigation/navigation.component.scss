@@ -1,0 +1,32 @@
+$nav-bg-color: #333;
+$link-color: #fff;
+$link-hover-color: #ff9900;
+
+nav {
+    background-color: $nav-bg-color;
+    padding: 15px;
+    color: $link-color;
+
+    ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        display: flex;
+        justify-content: space-between;
+
+        li {
+            margin-right: 15px;
+        }
+
+        a {
+            text-decoration: none;
+            color: $link-color;
+            font-weight: bold;
+            transition: color 0.3s;
+
+            &:hover {
+                color: $link-hover-color;
+            }
+        }
+    }
+}
